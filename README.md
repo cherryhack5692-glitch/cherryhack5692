@@ -1,5 +1,4 @@
-## Hi, I'm Chanikya
-
+Hi, I'm Chanikya
 Full-Stack Developer | UI/UX & Graphic Designer
 
 ## 💫 About Me:
