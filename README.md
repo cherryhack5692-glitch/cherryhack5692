@@ -2,6 +2,12 @@
 
 ### 💻 Full-Stack Developer | AI Application Builder | UI/UX & Graphic Designer
 
+<img src="https://i.pinimg.com/736x/88/5e/34/885e346ff69a3a06c5b506c3596ef1ff.jpg" width="180" align="right">
+
+I'm a Computer Science undergraduate passionate about building
+full-stack web applications, AI-powered solutions, and intuitive
+digital experiences.
+
 I'm a Computer Science undergraduate passionate about building **full-stack web applications, AI-powered solutions, and intuitive digital experiences**. I enjoy turning ideas into practical products by combining software development, AI, and design.
 
 * 🚀 Building **full-stack applications** with MERN, Java & Spring Boot
